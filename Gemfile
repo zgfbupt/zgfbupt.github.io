@@ -1,4 +1,4 @@
-source 'https://mirrors.tuna.tsinghua.edu.cn/rubygems/'
+source 'https://rubygems.org'
 gem "bundler"
 gem "jekyll"
 gem "jekyll-paginate"
