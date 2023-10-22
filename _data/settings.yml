@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: GuoFeng Zhong
+title: 钟国锋 | GuoFeng Zhong
 logo: logo.svg # You can add own logo.
 description: BYR GuoFeng Zhong's personal website!
 
@@ -18,8 +18,8 @@ author:
 twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+mail: mailto:zgf@bupt.com # Add your mail handle
+github: https://github.com/zgfbupt # Add your github handle
 
 
 #-------------------------------
